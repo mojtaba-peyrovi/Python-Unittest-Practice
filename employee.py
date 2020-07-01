@@ -32,4 +32,5 @@ Employee_1 = Employee('mojtaba','peyrovi',20000)
 print(Employee.email(Employee_1),Employee.fullname(Employee_1),Employee.apply_raise(Employee_1))
 # Employee.fullname(Employee_1)
 
-    
+
+
